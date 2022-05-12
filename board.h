@@ -3,8 +3,7 @@
 
 #define SENSE_PIN A7
 
-// #define BOARD_ID "namco ltd.;RAYS PCB;Ver1.06;JPN,I/O"
-#define BOARD_ID "Burwenzel Incorporated Special I/O"
+#define BOARD_ID "namco ltd.;RAYS PCB;Ver1.06;JPN,I/O"
 
 #define BOARD_CMD_VER 0x11
 #define BOARD_JVS_VER 0x20
