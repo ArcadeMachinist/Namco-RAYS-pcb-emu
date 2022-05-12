@@ -2,6 +2,7 @@
 Namco "RAYS" gun i/o board emulator.
 
 Partially emulates rare Namco gun I/O, code name "RAYS".
+
 See this thread: https://forums.arcade-museum.com/threads/wtb-namco-rays-i-o-pcb.477560/
 
 I/O board speaks JVS, uses a b/w camera to track IR laser dot, emitted by the "gun".
